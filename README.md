@@ -1,1 +1,3 @@
-"# website_thumb" 
+## Introduction
+
+Repository for website thumb project.
